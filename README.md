@@ -6,6 +6,8 @@ Language Used : Python 3.11.4
 
 Libraries : NLTK ,Gensim ,Scikit-learn ,WordCloud , Seaborn. 
 
+**Dataset** : https://www.kaggle.com/datasets/ratinkr/hotel-reviews
+
 **Methodology :-**
 
 The sentiment analysis code consists of the following major components:
